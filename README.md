@@ -64,8 +64,8 @@ npm run dev
 Acesse http://localhost:5173 para visualizar a aplicação.
 
 ## 🚀 Deploy
- 
-Usei a própria ferramenta de deploy do GitHub, <a href= "" target="_blank"> Clique Aqui </a> para ver o projeto.
+
+Utilizei no deploy a [Vercel](https://vercel.com/) que é uma plataforma voltada para a hospedagem de aplicações de uma forma bem simples e rápida. <a href= "https://nlw-expert-notes-zeta.vercel.app/" target="_blank"> Clique Aqui </a> para visualizar o projeto.
 
 ## 🚧 Desenvolvido Por 
 `Misla Wislaine` 
